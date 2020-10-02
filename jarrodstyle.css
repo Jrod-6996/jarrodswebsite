@@ -1,0 +1,19 @@
+p, li, h1, h2, h3 {
+    font-family: helvetica;
+    font-size: 12pt;
+    color:black;
+}
+figcaption {
+    font-family: Arial;
+    font-style: italic;
+    font-size: 10pt;    
+}
+
+#sitebanner {
+    color: red;
+    background: navy;
+    font-family: Arial;
+    font-size: 400%;
+    text-align: center;
+    text-transform: uppercase;
+}
